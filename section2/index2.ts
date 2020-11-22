@@ -4,7 +4,7 @@
 
 // 
 //  Tuple型 : 配列の型指定において下記のように指定することで0番目はstring、
-// 　　　　　　2番目はnumberのように条件厳しめで型指定することができる。(pushで追加することは可)
+// 　　　　　　1番目はnumberのように条件厳しめで型指定することができる。(pushで追加することは可)
 const book: [string, number, boolean] = ['business', 1500, false];
 
 
